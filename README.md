@@ -1,2 +1,2 @@
 # TMS_login
-Selenium script for TMS login
+Selenium test script for TMS login
