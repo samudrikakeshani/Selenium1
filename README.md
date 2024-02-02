@@ -1,2 +1,2 @@
 # TMS_login
-first lessons of Selenium
+Selenium script for TMS login
